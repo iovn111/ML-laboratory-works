@@ -7,6 +7,9 @@
 | [ДЗ1](ДЗ1/) | [solution.ipynb](ДЗ1/solution.ipynb) |
 | [ДЗ2](ДЗ2/) | [solution2.ipynb](ДЗ2/solution2.ipynb) |
 | [ДЗ3](ДЗ3/) | [solution3.ipynb](ДЗ3/solution3.ipynb) |
+| [ДЗ4](ДЗ4/) | [Семинар_4.ipynb](ДЗ4/Семинар_4.ipynb) |
+| [ДЗ5](ДЗ5/) | [Семинар_5.ipynb](ДЗ5/Семинар_5.ipynb) |
+| [ДЗ6](ДЗ6/) | [Семинар_6.ipynb](ДЗ6/Семинар_6.ipynb) |
 
 ## Запуск
 
