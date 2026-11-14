@@ -6,3 +6,5 @@ scikit-learn
 statsmodels
 notebook
 pymorphy3
+scikit-image
+pillow

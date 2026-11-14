@@ -13,6 +13,7 @@
 | [ДЗ5](ДЗ5) | Обучение без учителя: ассоциативные правила и кластеризация выпускников | 8 649 IT-выпускников | [Семинар_5.ipynb](ДЗ5/Семинар_5.ipynb) |
 | [ДЗ6](ДЗ6) | Классификация текстов: темы ESG в нефинансовых отчётах компаний | 447 фрагментов отчётов | [Семинар_6.ipynb](ДЗ6/Семинар_6.ipynb) |
 | [ДЗ7](ДЗ7) | Вопросно-ответная система (IR-based QA): поиск ответа по базе «вопрос — ответ» | 22 интента о правилах библиотеки | [Семинар_7.ipynb](ДЗ7/Семинар_7.ipynb) |
+| [ДЗ8](ДЗ8) | Классификация изображений классическими методами: HOG-признаки и детектор HOG + SVM | 320 фото кошек и собак (Oxford-IIIT Pet) | [Семинар_8.ipynb](ДЗ8/Семинар_8.ipynb) |
 
 ## Запуск
 
@@ -31,4 +32,4 @@ jupyter notebook
 
 ## Стек
 
-Python · pandas · NumPy · scikit-learn · SciPy · pymorphy3 · statsmodels · Matplotlib · Jupyter Notebook
+Python · pandas · NumPy · scikit-learn · SciPy · pymorphy3 · scikit-image · statsmodels · Matplotlib · Jupyter Notebook
